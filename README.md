@@ -1,6 +1,56 @@
 ## Link - [diamond hands frw bot](https://t.me/diamondhandsfrw_bot)
 
-### Base Logic
+(Due to technical issues, the search service is temporarily unavailable.)
+
+Here’s the English translation of your message:
+
+---
+
+Thank you for your question! Let me clarify:
+
+### **What’s Already Implemented in the Demo Version**  
+1. **Core Algorithm**:  
+   - Wallet balance tracking ✅  
+   - Holding duration tracking ✅  
+   - Metric normalization ✅  
+   - Weighted coefficients (70/30) ✅  
+
+2. **Technical Implementation**:  
+   - Test data generation ✅  
+   - Holder ranking ✅  
+   - Table visualization ✅  
+
+---
+
+### **What Requires Improvement for Production**  
+1. **Transaction Analysis**:  
+   - Sales activity verification ❌  
+   - Cross-wallet transfer tracking ❌  
+   - CEX address detection ❌  
+
+2. **Optimizations**:  
+   - Exponential time weighting ❌  
+   - Dynamic coefficients ❌  
+   - Holder clustering ❌  
+
+3. **Integrations**:  
+   - Blockchain node connectivity ❌  
+   - Real API integration (Etherscan/BSCScan) ❌  
+   - Big data processing ❌  
+
+---
+
+## **Current Status**  
+This version is a **proof-of-concept**. For production use, further development is required, including:  
+- Full transaction parsing  
+- Caching system implementation  
+- Data update mechanisms  
+- Manipulation protection mechanisms  
+
+---
+
+
+## Base Logic
 (Due to technical issues, the search service is temporarily unavailable.)
 
 Here's the English translation of the rating calculation methodology:
