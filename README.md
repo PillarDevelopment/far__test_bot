@@ -93,10 +93,3 @@ score = (0.5 * norm_balance) + (0.5 * norm_duration)
 
 3. **Holder clustering**:  
    - Separate ratings for "whales" (>1% supply) vs retail holders.  
-
-Would you like me to:  
-- Demonstrate transaction verification implementation?  
-- Optimize the formula for a specific token?  
-- Visualize holder distribution?  
-
-Ready to enhance the logic for your needs! 🛠️
