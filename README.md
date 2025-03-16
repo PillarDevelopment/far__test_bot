@@ -1,1 +1,1 @@
-## Link - [t.me/diamondhandsfrw_bot](https://t.me/diamondhandsfrw_bot)
+## Link - [diamond hands frw bot](https://t.me/diamondhandsfrw_bot)
